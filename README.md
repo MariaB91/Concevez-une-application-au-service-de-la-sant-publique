@@ -21,11 +21,20 @@ Automatisant ces traitements pour éviter de répéter ces opérations
 
 # Livrables:
 Un notebook du nettoyage des données (non cleané, pour comprendre votre démarche). 
+
 Un notebook d’exploration comportant une analyse univariée, multivariée, une réduction dimensionnelle, ainsi que les différentes questions de recherches associées (non cleané, pour comprendre votre démarche).
+
 Une présentation, à utiliser en support pour la soutenance, comprenant :
+
 La présentation de votre idée d’application.
+
 Les opérations de nettoyage effectuées.
+
 La description et l'analyse univariée des différentes variables importantes avec les visualisations associées.
+
 L’analyse multivariée et les résultats statistiques associés, en lien avec votre idée d’application.
+
 3 observations solidement étayées (graphes et/ou tests statistiques à l’appui au besoin) évaluant la pertinence et la faisabilité de votre application.
+
+
 La synthèse des différentes conclusions sur la faisabilité de votre projet.
